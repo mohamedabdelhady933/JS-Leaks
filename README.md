@@ -1,8 +1,8 @@
 # JS-Leaks
-Javascript files leaks
+Find Javascript leaks
 
 
 # Usage
 ```
-./JSleaks.sh jsfiles.txt
+./JSleaks.sh domain.com jsfiles.txt
 ```
